@@ -1,3 +1,4 @@
+# Creating function
 def reverseword(s): 
    
    w = s.split(" ")        

@@ -1,4 +1,5 @@
-import random   #builtin module
+#Import builtin module
+import random
 
 lst=['s','w','g']
 comp_score=0

@@ -1,5 +1,6 @@
 ## Read input as specified in the question.
 ## Print output as specified in the question.
+## Creating function
 def get_max_occuring_char(str1):
   ASCII_SIZE = 256
   ctr = [0] * ASCII_SIZE
